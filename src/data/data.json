@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "Conor McGregor",
+      "tweets": 223,
+      "followers": 100500,
+      "avatar": "https://photoshablon.com/_ph/46/2/302873910.jpg?1677682725"
+    },
+    {
+      "id": 2,
+      "user": "Justin Geigy",
+      "tweets": 1534,
+      "followers": 100001,
+      "avatar": "https://klike.net/uploads/posts/2019-03/1551514068_40.jpg"
+    },
+    {
+      "id": 3,
+      "user": "Kimbo Slice",
+      "tweets": 562,
+      "followers": 99329,
+      "avatar": "https://klike.net/uploads/posts/2019-03/1551514032_36.jpg"
+    },
+    {
+      "id": 4,
+      "user": "John Jones",
+      "tweets": 10230,
+      "followers": 100,
+      "avatar": "https://klike.net/uploads/posts/2019-03/1551513992_3.jpg"
+    },
+    {
+      "id": 5,
+      "user": "Kai Kara France",
+      "tweets": 339,
+      "followers": 100505,
+      "avatar": "https://klike.net/uploads/posts/2019-03/1551513990_6.jpg"
+    },
+    {
+      "id": 6,
+      "user": "Sean O`Mayley",
+      "tweets": 2989,
+      "followers": 3721,
+      "avatar": "https://klike.net/uploads/posts/2019-03/1551514041_7.jpg"
+    },
+    {
+      "id": 7,
+      "user": "John Rogan",
+      "tweets": 724,
+      "followers": 5033,
+      "avatar": "https://klike.net/uploads/posts/2019-03/medium/1551514041_16.jpg"
+    },
+    {
+      "id": 8,
+      "user": "Francise Nganou",
+      "tweets": 763,
+      "followers": 11055,
+      "avatar": "https://klike.net/uploads/posts/2019-03/medium/1551514037_24.jpg"
+    },
+    {
+      "id": 9,
+      "user": "Paige Vanzant",
+      "tweets": 568,
+      "followers": 25036,
+      "avatar": "https://klike.net/uploads/posts/2019-03/medium/1551514037_30.jpg"
+    }
+  ]
+}
