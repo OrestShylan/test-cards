@@ -62,6 +62,27 @@
       "tweets": 568,
       "followers": 25036,
       "avatar": "https://klike.net/uploads/posts/2019-03/medium/1551514037_30.jpg"
+    },
+    {
+      "id": 10,
+      "user": "Brock Lacner",
+      "tweets": 568,
+      "followers": 25036,
+      "avatar": "https://w7.pngwing.com/pngs/129/94/png-transparent-computer-icons-avatar-icon-design-male-teacher-face-heroes-logo-thumbnail.png"
+    },
+    {
+      "id": 11,
+      "user": "Fred Perry",
+      "tweets": 568,
+      "followers": 25036,
+      "avatar": "https://img.freepik.com/vetores-premium/empresario-personagem-avatar-icone-vector-ilustracao-design_24877-18271.jpg?w=2000"
+    },
+    {
+      "id": 12,
+      "user": "Ralph Louren",
+      "tweets": 568,
+      "followers": 25036,
+      "avatar": "https://png.pngtree.com/png-vector/20200329/ourlarge/pngtree-character-avatar-of-businessman-with-beard-png-image_2166772.jpg"
     }
   ]
 }

@@ -1,4 +1,6 @@
 .cardContainer {
+  display: flex;
+  justify-content: center;
   position: relative;
   width: 454px;
   height: 547px;
@@ -62,11 +64,13 @@
 }
 
 .userPhoto {
+  margin-left: auto;
+  margin-right: auto;
   position: relative;
   z-index: 1;
   margin-bottom: 42px;
-  width: 72px;
-  height: 72px;
+  width: 92px;
+  height: 88px;
   border-radius: 50%;
   object-fit: cover;
 }
@@ -101,8 +105,10 @@
   font-weight: 600;
   cursor: pointer;
   text-transform: inherit;
+  font-family: 'Montserrat';
 }
 
 .followBtnActive {
   background-color: #5cd3a8;
+  font-family: 'Montserrat';
 }
