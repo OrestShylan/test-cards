@@ -1,18 +1,3 @@
-// import data from '../data/data.json';
-// import css from './App.module.css';
-// import { TweetItem } from './TweetItem/TweetItem';
-
-// export const App = () => {
-//   return (
-//     <section>
-//       <ul className={css.container}>
-//         {data.users.map(user => (
-//           <TweetItem key={user.id} user={user} />
-//         ))}
-//       </ul>
-//     </section>
-//   );
-// };
 import React, { useState } from 'react';
 import data from '../data/data.json';
 import css from './App.module.css';
